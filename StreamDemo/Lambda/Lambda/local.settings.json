@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=scmrstorage;AccountKey=XXXXXXXXXXXXXwuXjFjN5Yjdy2ixw5QkxL66DsdiWLka5BzVRWPM2dzCp8vEOwRoTE9elYLg==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=scmrstorage;AccountKey=XXXXXXXXXXXXXXXXXXjFjN5Yjdy2ixw5QkxL66DsdiWLka5BzVRWPM2dzCp8vEOwRoTE9elYLg==;EndpointSuffix=core.windows.net",
+    "DBConnection": "AccountEndpoint=https://rafat-iot-cosmos.documents.azure.com:443/;AccountKey=XXXXXXXXXXXXXXXXXXXXXXXXXXHnU2tsKfepdKcQtx6GME76odvhF9CbijggQKVN251gYN3pkA==;",
+    "EventHubConnection": "Endpoint=sb://rafat-eventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=qHDIXXXXXXXXXXXXXXXpShtYZEUK3uVR3+E="
+
+  }
+}
